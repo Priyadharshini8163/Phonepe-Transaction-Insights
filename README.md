@@ -24,5 +24,6 @@ Clone the GitHub repository containing PhonePe transaction data and load it into
   - Top_user: Lists totals for the top users.
   - Top_map: Contains totals for the top states, districts, and pin codes.
   - Top_insurance: Lists totals for the top insurance categories.
-   
+### Streamlit Output:
+![Phonepe_HomePage](https://github.com/Priyadharshini8163/Phonepe-Transaction-Insights/blob/main/Phonepe_HomePage.png)
 
